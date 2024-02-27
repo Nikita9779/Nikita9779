@@ -1,4 +1,4 @@
-### Hi there I am Nikita Salunkhe ![wave](https://github.com/Nikita9779/Nikita9779/assets/60732385/7a3f30a7-1ee3-4d8e-b3ad-d18d6ba17d75)
+### Hi there I am Nikita Salunkhe [👋]([url](https://raw.githubusercontent.com/Rashmi1404/RASHMI1404/main/wave.gif))
 
 
 Here are some ideas to get you started:
