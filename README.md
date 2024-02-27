@@ -1,7 +1,5 @@
-### Hi there I am Nikita Salunkhe [👋]([url](https://raw.githubusercontent.com/Rashmi1404/RASHMI1404/main/wave.gif))
+### Hi there I am Nikita Salunkhe ![WavingHelloGIF](https://github.com/Nikita9779/Nikita9779/assets/60732385/85d7e9df-37b5-4472-bdb4-707e787ca938)
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working in Hexaware Technologies.
 - 🌱 I’m currently learning Model Development.
