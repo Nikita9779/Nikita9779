@@ -1,5 +1,4 @@
-### Hi there ![image](https://github.com/Nikita9779/Nikita9779/assets/60732385/12a30deb-174a-45ad-9af3-b7d3456b82cf)
-
+### Hi there I am Nikita Salunkhe ![wave](https://github.com/Nikita9779/Nikita9779/assets/60732385/7a3f30a7-1ee3-4d8e-b3ad-d18d6ba17d75)
 
 
 Here are some ideas to get you started:
