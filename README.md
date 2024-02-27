@@ -1,4 +1,6 @@
-### Hi there I am Nikita Salunkhe ![WavingHelloGIF](https://github.com/Nikita9779/Nikita9779/assets/60732385/85d7e9df-37b5-4472-bdb4-707e787ca938)
+ # Hi there, I am Nikita Salunkhe <img src = "https://github.com/Nikita9779/Nikita9779/blob/main/wave.gif" width = 40 height = 40> 
+
+
 
 
 - 🔭 I’m currently working in Hexaware Technologies.
