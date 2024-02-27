@@ -1,4 +1,5 @@
-### Hi there ![wave](https://github.com/Nikita9779/Nikita9779/assets/60732385/e0b43371-de8a-4820-8f17-cef8644383b5)
+### Hi there ![image](https://github.com/Nikita9779/Nikita9779/assets/60732385/12a30deb-174a-45ad-9af3-b7d3456b82cf)
+
 
 
 Here are some ideas to get you started:
